@@ -1,0 +1,14 @@
+---
+title: "Capstone Intro"
+author: "Joshua Charfauros"
+date: "2024-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# ABOUT ME
+
+I'm Josh, I'm a 4th YR Applied math and Stats & Data science double.
